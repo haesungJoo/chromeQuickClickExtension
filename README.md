@@ -1,1 +1,3 @@
-# chromeQuickClickExtension
+# 크롬 검색 편리 도구
+- 크롬에서 검색을 한다.(ex. what is lion?)
+- `ctrl + Enter` 단추키로 제일 상단에 위치한 검색 결과의 새 탭을 생성한다.
